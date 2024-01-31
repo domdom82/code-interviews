@@ -15,4 +15,13 @@
 
 ## How to use
 
-tbd
+**Run as server**
+```
+./chat-p2p -s localhost:1234
+```
+
+
+**Run as client**
+```
+./chat-p2p localhost:1234
+```
